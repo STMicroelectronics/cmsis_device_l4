@@ -27,6 +27,9 @@ CMSIS Device L4 | CMSIS Core | Was delivered in the full MCU package
 --------------- | ---------- | -------------------------------------
 Tag v1.5.1 | Tag v5.4.0_cm4 | Tag v1.14.0
 Tag v1.6.0 | Tag v5.4.0_cm4 | Tag v1.15.0
+Tag v1.6.1 | Tag v5.4.0_cm4 | Tag v1.15.1
+
+Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/cmsis_device_l4/blob/master/Release_Notes.html). 
 
 The full **STM32CubeL4** MCU package is available [here](https://github.com/STMicroelectronics/STM32CubeL4).
 
