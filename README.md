@@ -19,17 +19,20 @@ Two models of publication are proposed for the STM32Cube embedded software :
 
 This **cmsis_device_l4** MCU component repo is one element of the STM32CubeL4 MCU embedded software package, providing the **cmsis device** part.
 
+## Release note
+
+Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/cmsis_device_l4/blob/master/Release_Notes.html).
+
 ## Compatibility information
 
 In this table, you can find the successive versions of this CMSIS Device component, in-line with the corresponding versions of the full MCU package:
 
 CMSIS Device L4 | CMSIS Core | Was delivered in the full MCU package
 --------------- | ---------- | -------------------------------------
-Tag v1.5.1 | Tag v5.4.0_cm4 | Tag v1.14.0
-Tag v1.6.0 | Tag v5.4.0_cm4 | Tag v1.15.0
-Tag v1.6.1 | Tag v5.4.0_cm4 | Tag v1.15.1
-
-Details about the content of this release are available in the release note [here](https://htmlpreview.github.io/?https://github.com/STMicroelectronics/cmsis_device_l4/blob/master/Release_Notes.html). 
+Tag v1.5.1 | Tag v5.4.0_cm4 | Tag v1.14.0 (and following, if any, till next new tag)
+Tag v1.6.0 | Tag v5.4.0_cm4 | Tag v1.15.0 (and following, if any, till next new tag)
+Tag v1.6.1 | Tag v5.4.0_cm4 | Tag v1.15.1 (and following, if any, till next new tag)
+Tag v1.7.0 | Tag v5.6.0_cm4 | Tag v1.16.0 (and following, if any, till next new tag)
 
 The full **STM32CubeL4** MCU package is available [here](https://github.com/STMicroelectronics/STM32CubeL4).
 
